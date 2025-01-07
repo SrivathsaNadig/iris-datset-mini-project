@@ -11,3 +11,5 @@ This project aims to provide an introduction to Machine Learning (ML) using the 
 - Understand the basics of Machine Learning.
 - Learn how to load and explore the Iris dataset.
 - Implement a simple ML model using Python.
+
+Is basic and has good proprties that a beginner can get started with.
